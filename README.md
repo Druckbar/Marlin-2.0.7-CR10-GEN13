@@ -1,5 +1,18 @@
 # Marlin 3D Printer Firmware
 
+<img src="https://repository-images.githubusercontent.com/300662615/05feda80-04d7-11eb-842f-44e4b3f06d13" />
+
+## 2.0.7 Modified for Artillery Sidewinder X1
+
+- MKS Gen V1.3
+- TMC2208 Stepper Drivers (set to .950)
+- Manual Bed Leveling (5 Points)
+- Babystepping 
+- Working M600
+- Baudrate set to 115200
+
+Before uploading the firmware, review your individual settings with M503 and store them in a textfile. Transfer PID-values, steps, threshold to Configuration.h. After uploading the firmware to your board, please reset to factory defaults (M502) and store the values (M500).
+
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
