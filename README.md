@@ -2,7 +2,7 @@
 
 <img src="https://repository-images.githubusercontent.com/300662615/05feda80-04d7-11eb-842f-44e4b3f06d13" />
 
-## 2.0.7 Modified for Artillery Sidewinder X1
+## 2.0.7 Modified for Creality CR-10/S
 
 - MKS Gen V1.3
 - TMC2208 Stepper Drivers (set to .950)
